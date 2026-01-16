@@ -5,9 +5,9 @@ Precondición:
 El usuario está en la página de login.
 
 Pasos para reproducir:
-Ingresar el nombre de usuario válido.
-Ingresar la contraseña invalida.
-Presionar el botón de login.
+1.Ingresar el nombre de usuario válido.
+2.Ingresar la contraseña invalida.
+3.Presionar el botón de login.
 
 Resultado esperado:
 El sistema entrega un mensaje claro respecto a la invalidez de la contraseña.
